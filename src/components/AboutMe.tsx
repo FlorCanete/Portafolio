@@ -10,7 +10,7 @@ export default function AboutMe() {
           <img src={AboutMeImage} alt="Soy Yo" className='w-full max-w-xs md:max-w-sm lg:max-w-md h-auto rounded-2xl object-cover mx-auto'/>
 
             <p className=''>
-              Soy Florencia Cañete y me dedico al desarrollador frontend y me apasiona crear interfaces claras, atractivas y fáciles de usar. Me gusta transformar ideas en experiencias reales, combinando diseño, maquetación y desarrollo para que todo fluya de forma natural.
+              Soy Florencia Cañete y me dedico al desarrollador frontend. Me apasiona crear interfaces claras, atractivas y fáciles de usar. Me gusta transformar ideas en experiencias reales, combinando diseño, maquetación y desarrollo para que todo fluya de forma natural.
               Soy una persona adaptable, curiosa y muy atenta al detalle. Siempre busco aprender algo nuevo, aportar mis ideas y trabajar en equipo para resolver problemas de manera práctica, creativa y con buena onda.
             </p>
         </div>
