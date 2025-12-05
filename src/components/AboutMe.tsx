@@ -1,4 +1,4 @@
-import AboutMeImage from '../assets/avatar_aboutme.jpg'
+import AboutMeImage from '../assets/avatar_aboutme.png'
 
 export default function AboutMe() {
   return (
@@ -10,7 +10,8 @@ export default function AboutMe() {
           <img src={AboutMeImage} alt="Soy Yo" className='w-full max-w-xs md:max-w-sm lg:max-w-md h-auto rounded-2xl object-cover mx-auto'/>
 
             <p className=''>
-              Lorem ipsum dolor sit amet consectetur adipiscing elit pulvinar, a cras proin cubilia ornare nibh malesuada eget, sagittis lacinia tempor nulla nisl maecenas quisque. Cubilia ad a potenti sociis conubia nam leo diam mollis nibh et elementum pharetra risus turpis, aliquet curae at maecenas odio faucibus senectus phasellus dignissim praesent integer aliquam pulvinar. Potenti tellus faucibus vivamus nec torquent ultrices curabitur penatibus, senectus sodales fusce feugiat est ornare dictum facilisi, proin ad nulla maecenas parturient sapien class.
+              Soy Florencia Cañete y me dedico al desarrollador frontend y me apasiona crear interfaces claras, atractivas y fáciles de usar. Me gusta transformar ideas en experiencias reales, combinando diseño, maquetación y desarrollo para que todo fluya de forma natural.
+              Soy una persona adaptable, curiosa y muy atenta al detalle. Siempre busco aprender algo nuevo, aportar mis ideas y trabajar en equipo para resolver problemas de manera práctica, creativa y con buena onda.
             </p>
         </div>
       </div>
