@@ -1,6 +1,6 @@
-import IguassuExperience from '../assets/imageProyects/IguassuExperience.png'
-import Slabs from '../assets/imageProyects/Slabs.png'
-import WeatherApp from '../assets/imageProyects/WeatherApp.png'
+import IguassuExperience from '../assets/image/Proyects/IguassuExperience.png'
+import Slabs from '../assets/image/Proyects/Slabs.png'
+import WeatherApp from '../assets/image/Proyects/WeatherApp.png'
 
 export default function Proyects() {
   return (
