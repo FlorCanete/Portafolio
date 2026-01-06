@@ -3,7 +3,7 @@ import Hero from "./Hero";
 import AboutMe from "./AboutMe";
 import Experiencie from "./Experience";
 import Skills from "./Skills";
-import Proyects from "./Proyects"
+import Projects from "./Projects"
 
 export default function Layout() {
   return (
@@ -11,10 +11,10 @@ export default function Layout() {
       <Header></Header>
       <main className="">
         <Hero></Hero>
-        <AboutMe></AboutMe>
         <Experiencie></Experiencie>
         <Skills></Skills>
-        <Proyects></Proyects>
+        <Projects></Projects>
+        <AboutMe></AboutMe>
       </main>
     </>
   );
