@@ -11,7 +11,6 @@ import {
 import { faCompassDrafting, faMobile } from "@fortawesome/free-solid-svg-icons";
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { color } from "motion";
 
 export default function Skills () {
     const abilities = [

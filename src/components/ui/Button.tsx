@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 
-export default function Button (props) {
+export default function Button (props: any) {
     return (
         <motion.a
             className='bg-[#FF715B] px-4 py-2 rounded-xl text-white font-semibold text-lg cursor-pointer'
