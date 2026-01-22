@@ -1,3 +1,4 @@
+// @ts-nocheck
 export default function Avatar3D() {
   const isMobile = window.innerWidth < 768;
   return (

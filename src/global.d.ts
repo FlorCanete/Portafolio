@@ -1,3 +1,4 @@
+
 import { DetailedHTMLProps, HTMLAttributes } from 'react';
 
 declare global {
@@ -6,7 +7,10 @@ declare global {
       'spline-viewer': DetailedHTMLProps<HTMLAttributes<HTMLElement> & {
         url?: string;
         style?: React.CSSProperties;
+        loading?: string;
       }, HTMLElement>;
     }
   }
 }
+
+export {};
