@@ -1,4 +1,4 @@
-import AboutMeImage from '../assets/avatar_aboutme.png'
+import AboutMeImage from '../assets/image/avatar_aboutme.png'
 
 export default function AboutMe() {
   return (
